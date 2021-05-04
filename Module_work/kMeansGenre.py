@@ -11,8 +11,8 @@ genre_df.head()
 #%%
 plt.scatter(
     x=genre_df['avg_romance_rating'],
-    y=genre_df['avg_scifi_rating'],
-    c=
+    y=genre_df['avg_scifi_rating']
+    #c=
 )
 
 #%%
